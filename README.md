@@ -1,5 +1,11 @@
 # Git Practice
 
+### Author: ###
+Karan Tibriwal
+
+### Title: ###
+Nissan Apple Car Discussions Report Denial
+
 ### Link: ###
 
 https://www.theverge.com/2021/2/14/22283574/nissan-apple-car-discussions-report-denial-hyundai
