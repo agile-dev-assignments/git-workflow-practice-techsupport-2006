@@ -17,3 +17,9 @@ This morning I saw this article on my twitter feed - Apple’s discussions with 
 This is an interesting conversation because Apple has already released the Apple Car software which has been wildly successful in integrating the phone’s capabilities with the car. The premium they charge for this software enables them to capture a revenue stream, without worrying about the manufacturing difficulties that arise in manufacturing a car. However, building the car themselves, while increase bottomline quantitatively, may not be the best approach for the company, qualitatively. On the other hand, we have seen the Apple Effect (as I like to call it) many times, including with the wireless headphones industry as well as with the wearable tech/smartwatch industry. 
 
 Who knows? If the Apple Car does come to fruition, I believe it’ll either bomb spectacularly or we might finally have a true Tesla competitor on our hands. Either way, I am excited to see what the future holds! 
+
+
+#### Whitney Dankworth: Comment
+I'm looking forward to seeing an Apple car, but I have a few concerns. Apple is big on proprietary systems, which gives them complete control over the user experience, but it comes with the huge downside of limiting repairability. Already, if you shatter the back glass on the iPhone 12, it cannot be replaced -- the whole phone must be replaced. Moreover, Apple has consistently worked to limit 3rd party repairs of their devices recently.
+
+Imagine that, but with a car! It won't be long before you pull over to assist a driver with a flat tire only to realize that your normal jack and wrench will not fit the lug nuts on Apple tires -- instead you'll need a proprietary toolkit that is $1000. I do not think that Apple's closed-system proprietary technology will translate well to the automobile market.
